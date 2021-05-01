@@ -1,2 +1,2 @@
 # reduce commit size
-/node_modules
+node_modules/
