@@ -1,0 +1,24 @@
+{
+  "name": "express-mvc-template-engines-lesson",
+  "version": "1.0.0",
+  "description": "Basic Express MVC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theruelmisa/express-basic-mvc.git"
+  },
+  "author": "Ruel Misa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theruelmisa/express-basic-mvc/issues"
+  },
+  "homepage": "https://github.com/theruelmisa/express-basic-mvc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
